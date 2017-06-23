@@ -1,3 +1,7 @@
+/*
+ * 给定两个单向链表L1{2,4,3},L2{5,6,4}
+ * L1+L2,并返回L3{7,0,8}
+ */
 package test;
 
 class ListNode{
