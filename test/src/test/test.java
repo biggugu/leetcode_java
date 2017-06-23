@@ -1,3 +1,7 @@
+/*
+ * 给定一个非空integer数组和一个int整数，如arr=[2,5,7,8],target=9;
+ * 计算得到2+7=9;因此返回arr[0],arr[2]即(0,2)
+ */
 package test;
 import java.util.Map;
 import java.util.HashMap;
